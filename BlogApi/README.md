@@ -5,3 +5,9 @@
 
    ```bash
    cd BlogApi
+
+## Projeyi Başlatmak için 
+
+   ```bash
+   npm run start
+
