@@ -23,4 +23,15 @@
 
    ```bash
    npm run dev
+   ```
 
+Kullanıcı Giriş Bilgileri
+Proje için iki adet kullanıcı oluşturulmuştur:
+
+Kullanıcı 1:
+Kullanıcı Adı: Görkem
+Şifre: 12345
+
+Kullanıcı 2:
+Kullanıcı Adı: Faruk
+Şifre: 12345
