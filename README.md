@@ -35,3 +35,5 @@ Kullanıcı Adı: Görkem
 Kullanıcı 2:
 Kullanıcı Adı: Faruk
 Şifre: 12345
+
+Not: Tanıtım videosunu izlemeyi unutmayınız.
